@@ -36,46 +36,52 @@
 
 <br>
 
-# Intro 
+# Our Lens to look at Innovation: Ugh Germany is so rigid!
 
-I often notice people working in the IT sector criticizing Germans or German companies for a lack of innovation. A perfect example of this perception is notable in the current discussions regarding the 5G network expansion plans of the German Government. 
+People working in the IT sector often criticize Germans and German companies for a lack of innovation. A perfect example of this perception is notable in the discussions regarding the 5G network expansion plans or in the recurrent and very often cited idea that the next Google or Apple will not originate here. While this might seem like a steretype thrown around non-chalantly, the proliferation of this idea made it worthwhile for us to delve deeper into it.
 
-These discussions often result in quite heated and negative feedback in the comment sections of German newspapers or on social media in general. German companies or the German government for that matter, are often considered slow and extremely cautious when it comes to innovation or adoption of new technology or processes. To put it in the words of **Tomasz Mroczkowski**<sup id="a1">[1](#f1)</sup>: 
+We therefore, first picked a suitable lens to explore this idea further. Due to the normative nature of this idea and the subsequent cultural context that it is embedded in, we found the lens of "Conservative Innovation" to be conducive to our purposes. 
+
+These discussions around the idea of innovation within the IT sector in Germany tend to equate values of progress to technical innovation. In customer meetings, from eperience such discourses result in quite arduously negative conclusions about innovation in Germany. These are further reflected in the comment sections of German newspapers or on social media in general. German companies or the German government for that matter, are often considered slow and extremely cautious when it comes to innovation or adoption of new technology or processes. To put it in the words of **Tomasz Mroczkowski**<sup id="a1">[1](#f1)</sup>: 
 
 >*“The country that invented the ‘triple-helix’, today is criticized for insufficient entrepreneurship and innovation, and for coddling university academics who are described as conservative, inward-looking, and resistant to change”*<sup id="a2">[2](#f2)</sup>
 
-However, I want to shine another light on this topic that mostly has a negative connotation attached to it and give another perspective. I want to even go so far saying: Germany and German companies are doing some things way better compared to other countries and companies in this context. 
+However, taking the case of the adoption of Cloud technologies within Germany, we want to explore this view further. Through experience in several such projects as well as through founding a company in this field, we argue that Germany and German companies are doing some things much better compared to other countries and companies in this context. 
 
 # My perspective
 
-The perception that Germany is lagging behind in the field of technology and innovation, has turned from an ephemeral joke to a prevalent idea spanning across fields. Moreover, the normative idea of innovation is rarely questioned. It has become an answer, a buzzword and almost a knee-jerk reaction to most policy issues. 
+The perception that Germany is lagging behind in the field of technology and innovation especially when it comes to IT and Software, has turned from an ephemeral joke to a prevalent idea spanning across fields. The idea of innovation is almost equated unquestioningly to values of progress and visions of futuristic technologies and national dominance. The normative idea of innovation is rarely questioned. It has become an answer, a buzzword and almost a knee-jerk reaction to most policy issues. 
 
 <center>But it begs the question:</center>
 
-**<center><blockquote>What problem are we solving through innovation?</center></blockquote>**  
+**<center><blockquote>What problem, if any, are we solving through technical innovation?</center></blockquote>**  
 
-And continuing on that path: Is innovation and the amount of resources needed for it, **ALWAYS** the most optimal answer to issues faced by businesses?
+And continuing on that path: Is technical innovation and the amount of resources needed for it, **ALWAYS** the most optimal answer to issues faced by different stakeholders within society today?
 
-## German Angst 
-One of the earliest references of the term “German Angst” or more precisely “West Germany: **Moment of Angst**“ can be found on the frontpage of the TIME MAGAZIN published in 1981. 
+Could it be that the German culture because of historical developments prioritises values of "stability" and "cautiousness" and exercises maybe a healthy amount of "skepticism" when it comes to new technologies? 
 
-Within the context of the society there, it was used to describe not just a feeling but was in fact a reference of the political and socio-economic climate, that was reigning in the German society. Germans seemed to fear a lot of things, existential dread being one of them as well as the perpetual risk of a nuclear war during the cold war era.
+## The German Angst
+One of the earliest references of the term “German Angst” or more precisely “West Germany: **Moment of Angst** can be found on the frontpage of the TIME MAGAZIN published in 1981. 
+
+Within the context of the society there, it was used to describe not just a feeling but was in fact a reference to the political and socio-economic climate, that was reigning in the German society. Germans seemed to fear a lot of things, existential dread being one of them as well as the perpetual risk of a nuclear war during this time period. This is further relfected in the 80s as an era in a divided by the Berkin Wall Germany. It was the decade of 99 Luftballoon (99 ballons), protests against the arms race, the decade of "Atomkraft? Nein Danke.", the LGBTQIA+ community beginning to come out in the open congregating in bars and clubs as well as the breakout of the HIV infection and educational campiagns in schools. Suffice it to say: it was a politically charged atmosphere and Germans rightfully so, feared new technoligies like nuclear arms. 
 
 ![Time Magazin Titel Cover](/img/time_german_angst.jpg)
 Title: *West Germany: Moment of Angst*
  
-Now the term is widely spread across industries and has been  used as a synonym for something that is *“typically German”*. 
+This idea of Germany being cautious and laggard seems to have stuck to Germany. Today, it is commonly used as a synonym for something that is *“typically German”*. 
 
 <center>Meaning, the behavoir of being:</center>
 
 
-**<center><blockquote>Cautious, scared and critical of torwards anything “new”</center></blockquote>**
+**<center><blockquote>Cautious, scared and critical torwards anything “new”</center></blockquote>**
 
 ## Conservative Innovation
 
-German Angst as a term is more related to sociology issues. Since this is not the major topic of this article, the current trend of German innovation can be better described as **conservative innovation**. 
+German Angst therefore, seen in context and from a retrspective lens, seems like a legitimate reaction. We can however, trace elements of this feeling in the way the current trend of German innovation is viewed and described
 
-This term was only recently characterized by (amongst others) **Sebastian Pfotenhauer**<sup id="a3">[3](#f3)</sup> Professor at the Technical University Munich (TUM) School of Management and Munich Center for Technology in Society (MCTS).
+ **the conservatively innovative culture**. 
+
+The lens of conservative innovation was only recently characterized by (amongst others) **Sebastian Pfotenhauer**<sup id="a3">[3](#f3)</sup> Professor at the Technical University Munich (TUM) School of Management and Munich Center for Technology in Society (MCTS).
 
 In multiple congress contributions<sup id="a4">[4](#f4)</sup> he explained conservative innovation as an approach of:
 
@@ -83,7 +89,7 @@ In multiple congress contributions<sup id="a4">[4](#f4)</sup> he explained conse
 
 # The doomsday argument
 
-This is not a phenomenon limited to Bavaria, is its rather a trend across several German companies. Especially in the manufacturing sector (Heavily based in the south of Germany) such a trend is visible, since they operate out of **position of strength** as mentioned before.
+This phenomenon, can especially be seen in the manufacturing sector (Heavily based in the south of Germany) since they operate out of a **position of strength** as one of the bigger drivers of economic prosperity and carrying a lot of political and social leverage due to it's role in the economy. 
 
 ![Katapult Magazin](/img/katapult_bw.jpg)
 Title: *Countries and Federal states with less economic performance than Baden-Wuerttemberg.*<sup id="a5">[5](#f5)</sup> 

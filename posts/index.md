@@ -18,9 +18,6 @@
 
 So here are the latest posts:
 
-> :ArticleCard src=/german-angst-or-conservative-innovation, style=box
-
-> :ArticleCard src=/german-angst-or-conservative-innovation
 
 ---
 
