@@ -12,7 +12,7 @@ export const config = /*#__PURE__*/configuration({
     base: 'posts'
   },
   dest: {
-    namespace: '/coding-blog-boilerplate',    // --> change this if you want to also deploy to GitHub Pages
+    namespace: '/justblogit',    // --> change this if you want to also deploy to GitHub Pages
     html: 'dist',
     assets: process.env.GITHUB_BUILD === 'true' ? 'dist' : '.',
     bundle: process.env.GITHUB_BUILD === 'true' ? 'bundle' : 'dist/bundle',
@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Coding Blog Boilerplate'         // --> change this to change your blog's title
+      base: "Beenish's Blog"         // --> change this to change your blog's title
     },
     favicon: '/favicon.ico'
   },
@@ -34,8 +34,8 @@ export const config = /*#__PURE__*/configuration({
   ],
   misc: {
     github: {
-      repo: 'coding-blog-boilerplate',
-      user: 'CONNECT-platform'
+      repo: 'justblogit',
+      user: 'BWaris94'
     }
   }
 });
