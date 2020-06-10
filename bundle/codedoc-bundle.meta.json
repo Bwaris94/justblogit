@@ -93,11 +93,6 @@
       "hash": "oTf7E4Mh/IsG1gY4REN1bA=="
     },
     {
-      "name": "ArticleCard",
-      "filename": "/home/runner/work/justblogit/justblogit/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
-      "hash": "TkM91Gn8T3BiI3jHNdfS0A=="
-    },
-    {
       "name": "ToCPrevNext",
       "filename": "/home/runner/work/justblogit/justblogit/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
       "hash": "iponTzOHa/HScr9XGS25zA=="
