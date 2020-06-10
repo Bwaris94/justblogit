@@ -9,11 +9,8 @@
 
 > :Title
 >
-> Sample Blog
+> Beenish's Blog
 
-This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
-it to showcase your latest / most-important blog posts (or whatever suites your case).
-You can modify its content by editting `posts/index.md`.
 
 ---
 
@@ -21,13 +18,9 @@ You can modify its content by editting `posts/index.md`.
 
 So here are the latest posts:
 
-> :ArticleCard src=/sample-blog-post, style=box
+> :ArticleCard src=/german-angst-or-conservative-innovation, style=box
 
-> :ArticleCard src=/sample-blog-post, style=box
-
-> :ArticleCard src=/sample-blog-post
-
-> :ArticleCard src=/sample-blog-post
+> :ArticleCard src=/german-angst-or-conservative-innovation
 
 ---
 
