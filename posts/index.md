@@ -11,14 +11,12 @@
 >
 > Beenish's Blog
 
-
----
-
 # Latest Posts
 
 So here are the latest posts:
 
 > :ArticleCard=src/content-creation-curation-and-moderation, style=box
+
 ---
 
 <br><br>

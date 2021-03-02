@@ -18,7 +18,7 @@
 >       target=mobile,
 >       leak=96px
 
-> :Title shadow=0 0 8px white, color=white
+> :Title shadow=0 0 10px white, color=white
 >
 >Content creation, curation and moderation: ramblings of another founder trying to change the system and all that jazz
 
