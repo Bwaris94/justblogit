@@ -18,9 +18,10 @@
 >       target=mobile,
 >       leak=96px
 
-> :Title shadow=0 0 10px black, color=white
+> :Title 4px black, color=black
 >
->
+> Content Creation, Curation and Moderation: <em>Ramblings of Another Founder Trying to Change the System and All That Jazz</em>
+
 
 > :Author   name=Beenish Waris,
 >           date=Wed March 02 2020,
@@ -29,7 +30,6 @@
 
 <br>
 
-# Content creation, curation and moderation: ramblings of another founder trying to change the system and all that jazz
 
 Blogging and content created in the form of articles and newsletters has been overwhelming for readers in recent years. From tools like Acrolinx, Grammarly, Ahrefs and GPT-3 among a myriad of others for content creation, the spread of “optimised” content has increased over the last decade. Clickbaity headlines, keyword usage, number of words in an article have become factors, that our incentive systems seem to prioritise by featuring them in the first few results on google search. Combine this trend with the advent of new business models like Substack which enables people (literally anyone) to monetise what they are writing has resulted in domain specific editorial skills becoming almost redundant. 
 This begs the question that considering these macro trends that enable more people to create content: how do we as individuals find the content, we want to consume from the monstrous amount of content that exists out there? Furthermore, what is the nature and quality of this content? 
