@@ -1,7 +1,7 @@
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1900x600,
 >       mode=light,
 >       target=desktop,
->       leak=296px
+>       leak=320px
 
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1200x600,
 >       mode=light,
@@ -11,14 +11,14 @@
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1900x600,
 >       mode=dark,
 >       target=desktop,
->       leak=296px
+>       leak=320px
 
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1200x600,
 >       mode=dark,
 >       target=mobile,
 >       leak=96px
 
-> :Title shadow=0 0 8px black, color=white
+> :Title shadow=0 0 8px white, color=white
 
 Content creation, curation and moderation: ramblings of another founder trying to change the system and all that jazz
 
@@ -36,6 +36,7 @@ Blogging and content created in the form of articles and newsletters has been ov
 This begs the question that considering these macro trends that enable more people to create content: how do we as individuals find the content, we want to consume from the monstrous amount of content that exists out there? Furthermore, what is the nature and quality of this content? 
 
 Let’s start with looking at how much content actually exists. According to Forbes, in 2018, we created 2.5 quintillion bytes of data every day, and the majority of this data (90 per cent) has been created in the last two years alone (Forbes, 2018). Another mind-boggling statistic is that every second, on average, around 6,000 tweets are tweeted on Twitter which totals to over 350,000 tweets sent per minute, 500 million tweets per day and around 200 billion tweets per year. (Internet Live Stats, 2021) Another source suggests that there were 500 million blogs that exist in 2019 (Optinmonster, 2021). And blogs do not really contain other types of content that we read on Facebook, comments on posts among others or online publications like journals, magazines, newsletters etc. Suffice it to say: this is A LOT of content. What does this content do for us? 
+
 There is now ample research that details the impact of overload of information and what exposure to digital technologies does. The problem is not inherent to digital technologies but rather within the ecosystem we have created where we have enabled content creation to be a seamless process that can be undertaken by anyone but have not put the same focus on curation. 
 
 I recently came across an NPR talk from a decade ago, where a journalist describes his experience of going on a retreat with neuroscientists without any network coverage which meant they had no chance of going online. They reiterated the three-day effect: of not being exposed to digital technologies, content and their pertaining nudges. The journalist, Matt Richtel, used the analogy of food and nutrition to explain digital technologies. I want to extend this idea to that of content. There’s digital content that can be compared to Twinkies and content that can be compared to Brussel Sprouts meaning that one has long term positive impact neurologically and from the other you can derive short-term gratification with some harmful long-term consequences. And just like with food: if you over-consume, you face issues like obesity and pertaining illnesses. If you overconsume information or misinformation, you face the equivalent of that in neurological detriment (NPR, 2010).

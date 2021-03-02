@@ -1,7 +1,7 @@
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1900x600,
 >       mode=light,
 >       target=desktop,
->       leak=296px
+>       leak=320px
 
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1200x600,
 >       mode=light,
@@ -11,7 +11,7 @@
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1900x600,
 >       mode=dark,
 >       target=desktop,
->       leak=296px
+>       leak=320px
 
 > :Hero src=https://source.unsplash.com/7Equ1tUYmps/1200x600,
 >       mode=dark,
