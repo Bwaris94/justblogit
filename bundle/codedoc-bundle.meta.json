@@ -73,6 +73,11 @@
   ],
   "components": [
     {
+      "name": "Author",
+      "filename": "/home/runner/work/justblogit/justblogit/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "oTf7E4Mh/IsG1gY4REN1bA=="
+    },
+    {
       "name": "ToCToggle",
       "filename": "/home/runner/work/justblogit/justblogit/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
       "hash": "b90Lyiy/r0FOJ4bsTmLr5g=="
@@ -86,11 +91,6 @@
       "name": "ConfigTransport",
       "filename": "/home/runner/work/justblogit/justblogit/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
       "hash": "eY88GvYbNbq7xROVKGaVxA=="
-    },
-    {
-      "name": "Author",
-      "filename": "/home/runner/work/justblogit/justblogit/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
-      "hash": "oTf7E4Mh/IsG1gY4REN1bA=="
     },
     {
       "name": "ArticleCard",
