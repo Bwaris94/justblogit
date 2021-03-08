@@ -94,15 +94,14 @@ Domain expert’s assessment + Reader assessment + Categorization of article (pu
 P.S. Yes, yes, I am critiquing the very system that is allowing me to write this article. The irony of it is not lost on me 😉 
 
 <!-- AddToAny BEGIN -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-<a class="a2a_button_twitter"></a>
-<a class="a2a_button_reddit"></a>
-<a class="a2a_button_linkedin"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_hacker_news"></a>
+<div>
+<a href="https://www.addtoany.com/share#url=https%3A%2F%2Fbeenish.coding.blog%2Fcontent-creation-curation-and-moderation&amp;title=" target="_blank"><img src="https://static.addtoany.com/buttons/a2a.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbeenish.coding.blog%2Fcontent-creation-curation-and-moderation&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fbeenish.coding.blog%2Fcontent-creation-curation-and-moderation&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/linkedin.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbeenish.coding.blog%2Fcontent-creation-curation-and-moderation&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/reddit.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fbeenish.coding.blog%2Fcontent-creation-curation-and-moderation&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/telegram.svg" width="32" height="32" style="background-color:royalblue"></a>
+<a href="https://www.addtoany.com/add_to/hacker_news?linkurl=https%3A%2F%2Fbeenish.coding.blog%2Fcontent-creation-curation-and-moderation&amp;linkname=" target="_blank"><img src="https://static.addtoany.com/buttons/y18.svg" width="32" height="32" style="background-color:royalblue"></a>
 </div>
-<script async src="https://static.addtoany.com/menu/page.js"></script>
 <!-- AddToAny END -->
 
 ---
