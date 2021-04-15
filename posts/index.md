@@ -17,6 +17,8 @@ So here are the latest posts:
 
 > :ArticleCard src=/content-creation-curation-and-moderation, style=box
 
+> :ArticleCard src=/german-angst-or-conservative-innovation, style=box
+
 ---
 
 <br><br>
