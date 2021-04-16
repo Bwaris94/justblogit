@@ -70,7 +70,7 @@ This phenomenon can especially be seen in the manufacturing sector (Heavily base
 
 Germany is 22% below the average of 26%, when it comes to the use of cloud computing services in Europe.<sup id="a4">[4](#f4)</sup>
 
-However, one of the biggest concerns parroted in the IT sector have been that of the slow speed of adoption, change and innovation. The concern is spruced by the fear that **these companies might lose an important time** in the worldwide market disruption battle. To quote**C. William Pollard**<sup id="a5">[5](#f5)</sup> from his book *The Soul of the Firm*:
+However, one of the biggest concerns parroted in the IT sector have been that of the slow speed of adoption, change and innovation. The concern is spruced by the fear that **these companies might lose an important time** in the worldwide market disruption battle. To quote **C. William Pollard**<sup id="a5">[5](#f5)</sup> from his book *The Soul of the Firm*:
 
 > **“Learning and innovation go hand in hand. The arrogance of success is to think that what you did yesterday will be sufficient for tomorrow.”**
 
