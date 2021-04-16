@@ -20,7 +20,7 @@
 
 > :Title shadow=0 0 8px black, color=white
 >
-> A tale of cybersecurity concerns<p style="font-size:30px; margin-bottom: 20px;">A critical look at the local innovation culture in Germany and adoption of cloud technologies</p>
+> A tale of cybersecurity concerns:<p style="font-size:30px; margin-bottom: 20px;"> A critical look at the local innovation culture in Germany and adoption of cloud technologies</p>
 
 <br>
 <br>
@@ -191,7 +191,7 @@ These perceptions can be attributed to slower cloud adoption in Germany was comp
 
 So next time your customer is being a pain in the neck about projected costs, data breaches or adding on to your work, take a pause and consider the most ridiculous fears they have. Is there a possibility that the scenario they are painting might come true? Even if the probability of it happening is ridiculously low: is it nevertheless a possibility? If yes, what is the scenario? What are the social and economic costs associated with that scenario?
 
-Think about it: do we really need more products that do not put in the resources and time to consider how they will our personal or even financial data? Do we really need more products that impact different groups and communities disproportionately? Do we really want more products that exacerbate social tensions? Do we really want products that allow us and strengthen our biases? Do we really want products that impact the sanctity of human lives?
+Think about it: do we really need more products that do not put in the resources and time to consider how they will treat our personal or even financial data? Do we really need more products that impact different groups and communities disproportionately? Do we really want more products that exacerbate social tensions? Do we really want products that allow us and strengthen our biases? Do we really want products that impact the sanctity of human lives?
 
 Does it mean we should not innovate? No, but it means that we innovate responsibly and inclusively. Is innovation always great? No, think military innovations, innovations in the arms industries, innovations in algorithms that reproduce and exacerbate biases?
 
